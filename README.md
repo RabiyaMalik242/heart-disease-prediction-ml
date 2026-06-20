@@ -121,7 +121,7 @@ heart-disease-prediction-ml/
 ```
 2. Install dependencies
 ```bash
-   pip install numpy pandas matplotlib seaborn scikit-learn joblib
+   pip install -r requirements.txt
 ```
 3. Download `heart.csv` from [Kaggle](https://www.kaggle.com/datasets/cherngs/heart-disease-cleveland-uci) and place it in the project folder
 4. Open and run `heart_disease_prediction.ipynb` top to bottom
