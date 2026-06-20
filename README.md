@@ -117,7 +117,7 @@ heart-disease-prediction-ml/
 
 1. Clone the repository
 ```bash
-   git clone https://github.com/your-username/heart-disease-prediction-ml.git
+   git clone https://github.com/RabiyaMalik242/heart-disease-prediction-ml.git
 ```
 2. Install dependencies
 ```bash
