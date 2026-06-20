@@ -1,6 +1,6 @@
 # ❤️ Heart Disease Prediction
 
-A machine learning project that predicts whether a patient is at risk of heart disease based on clinical health data. Built as part of an AI/ML Internship — Task 3.
+A machine learning project that predicts whether a patient is at risk of heart disease based on clinical health data. Built as part of an AI/ML Internship.
 
 ---
 
